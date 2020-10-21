@@ -5,10 +5,4 @@ Ich bin der Rettungsmerge E
 
 Änderung von Branch A
 
-<<<<<<< HEAD
-Ich bin eine Änderung Remote
-=======
 Noch eine Änderung von Branch A
-
->>>>>>> W
-
