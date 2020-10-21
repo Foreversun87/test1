@@ -1,4 +1,4 @@
-Ich bin die A.md
-Eine Wichtige Änderung von A.md
+Ich bin eine Datei aus A.md
+Ich bin eine Änderung aus Branch B
 
-Und noch eine Wichtige Änderung
+Ich bin der Rettungsmerge E
