@@ -1,2 +1,2 @@
-Ich bin eine Änderung vom Branch: PR2
+Ich bin eine wichtige Änderung Direkt ausm branch:master in Github heraus
 Ich bin ein Post
